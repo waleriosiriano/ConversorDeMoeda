@@ -1,4 +1,4 @@
-Conversor de Moeda
+Conversor de Moeda (Java - API)
 
 Este é um projeto de um Conversor de Moedas criado em Java 17 utilizando Maven.
 
