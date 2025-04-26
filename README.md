@@ -50,6 +50,7 @@ Esta aplicação utiliza a API Awesomeapi para obter as taxas de câmbio mais re
 Validação das Moedas: Garante que as moedas de origem e destino são válidas.
 
 Erros na API: Mensagens de erro amigáveis exibidas para o usuário caso a conexão falhe ou os dados sejam inválidos.
+____________________________________________________________________________________________
 
 ![Image](https://github.com/user-attachments/assets/17d2609f-1863-4726-b23c-cc4a5814cd51)
 
